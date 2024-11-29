@@ -1,8 +1,8 @@
 Conda Env
 
-1) conda create -n kaggle_chess python=3.10
+1) conda create -n alphazero python=3.10
 
-2) conda activate kaggle_chess
+2) conda activate alplhazero
 
 3) pip install kaggle_environments
 
