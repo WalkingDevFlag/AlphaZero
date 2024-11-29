@@ -1,0 +1,13 @@
+Conda Env
+
+1) conda create -n kaggle_chess python=3.10
+
+2) conda activate kaggle_chess
+
+3) pip install kaggle_environments
+
+4) pip install ipykernel
+
+5) pip install chess numpy tensorflow tqdm 
+
+6) pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121

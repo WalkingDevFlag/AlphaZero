@@ -1,0 +1,6 @@
+kaggle_environments
+chess
+tensorflow
+tqdm
+numpy
+torch
